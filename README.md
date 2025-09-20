@@ -1,1 +1,1 @@
-<img src="https://graph.org/file/5e32430b641522a2870ac-4851f887f80ff89547.jpg" alt="logo" width="200">
+<img src="https://graph.org/file/3251f328c9e86acfe6f17-8633c4631c5c9c9e01.jpg" alt="logo" width="200">
