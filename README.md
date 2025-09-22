@@ -1,4 +1,6 @@
-<img src="https://graph.org/file/5e32430b641522a2870ac-4851f887f80ff89547.jpg" alt="logo">
+<a href="https://ibb.co/bRJJyZtn">
+  <img src="https://i.ibb.co/bRJJyZtn/photo-2025-09-22-19-32-24.jpg" alt="Auto Rename Bot" border="0" width="400">
+</a>
 
 <h1 align="center">
  <b><a href="https://github.com/Codeflix-Bots/AutoRenameBot">Auto Rename Bot</a></b>
