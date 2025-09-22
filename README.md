@@ -1,3 +1,1 @@
- <p align="center">
-      <img src="https://graph.org/file/3251f328c9e86acfe6f17-8633c4631c5c9c9e01.jpg" alt="Project Logo" width="800">
-    </p>
+<img src="https://graph.org/file/5e32430b641522a2870ac-4851f887f80ff89547.jpg" width="300" alt="My Photo" style="border-radius: 10px;">
